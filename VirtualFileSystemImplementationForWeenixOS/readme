@@ -1,1 +1,0 @@
-Implemented functions such as read, write, mkdir, chdir, rmdir, lookup, fillpage, dirtypage, close, create, link, unlink, rename etc. for virtual file system of Weenix OS.
