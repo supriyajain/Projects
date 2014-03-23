@@ -1,0 +1,1 @@
+Designed and developed a chat application for Henglish language [Hindi words written using English alphabets, SMS writing] with facilities like text suggestion (using Trie data structure) and correction (using edit distance algorithm) while typing.

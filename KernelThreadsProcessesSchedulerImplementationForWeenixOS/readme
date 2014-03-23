@@ -1,0 +1,1 @@
+Implemented basic building blocks of Weenix Operating System such as threads, processes, synchronization primitives and a scheduler. The project involved creating multiple threads for a process, mutex implementation, and a FIFO scheduler.
