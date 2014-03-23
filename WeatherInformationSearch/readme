@@ -1,1 +1,0 @@
-After validating the input, user's request is sent to PHP server hosted on AWS. PHP server retrieves current weather information using yahoo API and result is sent back to user which could be shared on Facebook.
